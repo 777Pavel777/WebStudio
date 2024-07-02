@@ -1,4 +1,3 @@
-/* ================== MODAL DESKTOP ================== */
 
 const MODAL_ACTIVE_CLASS_NAME = 'is-open';
 
@@ -43,5 +42,3 @@ form.addEventListener('submit', e => {
     })
     .catch(error => console.log('Sending form failed'));
 });
-
-/* ================== MODAL MOBILE BURGER ================== */
